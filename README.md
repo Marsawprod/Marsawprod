@@ -1,4 +1,4 @@
-  Olá! Eu sou o Felipe
+  Olá! Me chamo Felipe
 
 Estudante de Análise e Desenvolvimento de Sistemas  
 Apaixonado por tecnologia com propósito: inclusão, melhoria contínua e inovação  
